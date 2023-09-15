@@ -56,8 +56,7 @@ EMAIL_HOST_USER = 'youremail@gmail.com'
 EMAIL_HOST_PASSWORD = 'your email password'
 EMAIL_RECEIVING_USER = 'youremail@gmail.com'
 ```
-```
-```
+
 
 ## ملاحظة
 تم تطوير هذا المشروع لأغراض تجريبية وليس من المفترض استخدامه في الحقيقية.
@@ -65,4 +64,4 @@ EMAIL_RECEIVING_USER = 'youremail@gmail.com'
 
 أي اقتراح هو موضع ترحيب. يمكنك مراسلتي على تويتر
 - [Contact on twitter](https://twitter.com/maarouf_kaderv)
-- [url](https://pyarabic.com)
+- [بايثون العربي](https://pyarabic.com)
